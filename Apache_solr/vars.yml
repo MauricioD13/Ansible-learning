@@ -1,0 +1,5 @@
+---
+download_dir: /tmp
+solr_dir: /opt/solr
+solr_version: 9.6.1
+solr_checksum: sha512:cbed4b00fe96bcd590e3bdebc37ff96f34c0a3df53354d7b8f90aa2d64d4032f93bf817e750632b456ab3e1aa9a58b0b57fb4bc7e4795216cabcd5e1b16d2f34 *solr-9.6.1-src.tgz
